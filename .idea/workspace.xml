@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectId" id="2JrYBHhYotFWudJCEJMJsbUmlvo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -27,6 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -49,6 +53,7 @@
       <workItem from="1674383042953" duration="14846000" />
       <workItem from="1674470205466" duration="5365000" />
       <workItem from="1675157565609" duration="12000" />
+      <workItem from="1675157597199" duration="1393000" />
     </task>
     <servers />
   </component>
