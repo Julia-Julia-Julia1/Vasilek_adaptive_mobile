@@ -35,7 +35,7 @@ h1, h2, h3, h4 {
 }
 
 .Red {
-    color: red;
+    color: rgba(41, 90, 41, 0.91);
 }
 
 .vidres {
@@ -88,7 +88,7 @@ h1, h2, h3, h4 {
     color: #fff;
     font-size: 18px;
     line-height: 1em;
-    background: #f25a27;
+    background: #002aff;
     padding: 10px 20px;
     border-radius: 3px;
     box-shadow: 1px 1px 2px #000;
@@ -104,11 +104,11 @@ h1, h2, h3, h4 {
 }
 
 .pay__link:hover {
-    background: #ee4c13;
+    background: #002aff;
 }
 
 .pay__link:active {
-    box-shadow: 0 0 11px #892503 inset;
+    box-shadow: 0 0 11px #082595 inset;
 }
 
 .pay_ti {
@@ -358,8 +358,8 @@ h1, h2, h3, h4 {
 }
 
 .modal__input_sub{
-    border: 1px solid #770000;
-    background: #a00000;
+    border: 1px solid #05195f;
+    background: #002aff;
     color: #fff;
     text-transform: uppercase;
     padding: 20px 0;
@@ -370,7 +370,7 @@ h1, h2, h3, h4 {
     margin: 40px auto;
 }
 .modal__h3{
-    border-bottom: 1px solid #630606;
+    border-bottom: 1px solid #05195f;
     font-size: 27px;
     padding-bottom: 10px;
     margin: 0 0 20px;
