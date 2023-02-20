@@ -35,7 +35,8 @@ h1, h2, h3, h4 {
 }
 
 .Red {
-    color: rgba(41, 90, 41, 0.91);
+    color: rgb(84, 184, 164);
+    font-size: xx-large;
 }
 
 .vidres {
